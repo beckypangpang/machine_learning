@@ -1,2 +1,3 @@
 # machine_learning
-Machine learning projects
+This repository contains some machine learning projects using python.
+- Predict bike rental demand 
